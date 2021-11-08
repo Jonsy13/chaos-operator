@@ -1,4 +1,4 @@
-module github.com/litmuschaos/chaos-operator
+module github.com/Jonsy13/chaos-operator
 
 go 1.16
 
