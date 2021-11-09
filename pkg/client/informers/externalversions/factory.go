@@ -23,9 +23,9 @@ import (
 	sync "sync"
 	time "time"
 
-	versioned "github.com/litmuschaos/chaos-operator/pkg/client/clientset/versioned"
-	internalinterfaces "github.com/litmuschaos/chaos-operator/pkg/client/informers/externalversions/internalinterfaces"
-	litmuschaos "github.com/litmuschaos/chaos-operator/pkg/client/informers/externalversions/litmuschaos"
+	versioned "github.com/Jonsy13/chaos-operator/pkg/client/clientset/versioned"
+	internalinterfaces "github.com/Jonsy13/chaos-operator/pkg/client/informers/externalversions/internalinterfaces"
+	litmuschaos "github.com/Jonsy13/chaos-operator/pkg/client/informers/externalversions/litmuschaos"
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 	schema "k8s.io/apimachinery/pkg/runtime/schema"

@@ -31,8 +31,8 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/healthz"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	"github.com/litmuschaos/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
-	"github.com/litmuschaos/chaos-operator/pkg/controller/chaosengine"
+	"github.com/Jonsy13/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
+	"github.com/Jonsy13/chaos-operator/pkg/controller/chaosengine"
 	//+kubebuilder:scaffold:imports
 )
 

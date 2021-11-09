@@ -32,9 +32,9 @@ limitations under the License.
 package types
 
 import (
-	"github.com/litmuschaos/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
-	litmuschaosv1alpha1 "github.com/litmuschaos/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
-	"github.com/litmuschaos/chaos-operator/pkg/controller/utils"
+	"github.com/Jonsy13/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
+	litmuschaosv1alpha1 "github.com/Jonsy13/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
+	"github.com/Jonsy13/chaos-operator/pkg/controller/utils"
 	"sigs.k8s.io/controller-runtime/pkg/log"
 )
 

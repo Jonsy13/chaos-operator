@@ -19,8 +19,8 @@ limitations under the License.
 package litmuschaos
 
 import (
-	internalinterfaces "github.com/litmuschaos/chaos-operator/pkg/client/informers/externalversions/internalinterfaces"
-	v1alpha1 "github.com/litmuschaos/chaos-operator/pkg/client/informers/externalversions/litmuschaos/v1alpha1"
+	internalinterfaces "github.com/Jonsy13/chaos-operator/pkg/client/informers/externalversions/internalinterfaces"
+	v1alpha1 "github.com/Jonsy13/chaos-operator/pkg/client/informers/externalversions/litmuschaos/v1alpha1"
 )
 
 // Interface provides access to each of this group's versions.

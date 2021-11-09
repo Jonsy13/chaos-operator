@@ -17,7 +17,7 @@ limitations under the License.
 package apis
 
 import (
-	"github.com/litmuschaos/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
+	"github.com/Jonsy13/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
 )
 
 func init() {

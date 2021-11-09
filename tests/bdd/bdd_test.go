@@ -42,8 +42,8 @@ import (
 	"k8s.io/client-go/tools/clientcmd"
 	"k8s.io/klog"
 
-	"github.com/litmuschaos/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
-	chaosClient "github.com/litmuschaos/chaos-operator/pkg/client/clientset/versioned/typed/litmuschaos/v1alpha1"
+	"github.com/Jonsy13/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
+	chaosClient "github.com/Jonsy13/chaos-operator/pkg/client/clientset/versioned/typed/litmuschaos/v1alpha1"
 	restclient "k8s.io/client-go/rest"
 )
 

@@ -25,7 +25,7 @@ import (
 	metaV1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/kubernetes"
 
-	chaosTypes "github.com/litmuschaos/chaos-operator/pkg/controller/types"
+	chaosTypes "github.com/Jonsy13/chaos-operator/pkg/controller/types"
 )
 
 // CheckDaemonSetAnnotation will check the annotation of DaemonSet

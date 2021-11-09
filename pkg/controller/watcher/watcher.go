@@ -21,7 +21,7 @@ import (
 
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	litmuschaosv1alpha1 "github.com/litmuschaos/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
+	litmuschaosv1alpha1 "github.com/Jonsy13/chaos-operator/pkg/apis/litmuschaos/v1alpha1"
 )
 
 func getPodchaosUIDLabel(podLabels map[string]string) string {

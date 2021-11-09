@@ -21,7 +21,7 @@ import (
 	"os"
 	"strings"
 
-	chaosTypes "github.com/litmuschaos/chaos-operator/pkg/controller/types"
+	chaosTypes "github.com/Jonsy13/chaos-operator/pkg/controller/types"
 	"k8s.io/client-go/dynamic"
 	"k8s.io/client-go/kubernetes"
 )
